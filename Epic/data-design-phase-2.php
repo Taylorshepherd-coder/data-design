@@ -52,5 +52,8 @@
 				<li>Many videos can be liked by many Profiles</li>
 	</ul>
 	</p>
+	<p>
+		<img src="data-design-phase-2-diagram.jpg" alt="picture of the diagram"/>
+	</p>
 	</body>
 </html>

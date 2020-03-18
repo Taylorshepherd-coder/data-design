@@ -28,8 +28,5 @@
 			<li>Marie May is able to watch the new video her favorite YouTuber has just released. She is able to pause the video at any time to take notes or attempt the style that is being shown. She is also able to fast forward through the video or rewind it as well.</li>
 			<li>Marie May watches the video.</li>
 		</ul>
-	<p>
-	<h1><a href"=https://app.diagrams.net/#G1jBV7ypVmdOSG4Dfcuf3tLDeMkIWj2hxM">Diagram Flow</a></h1>
-	</p>
 	</body>
 </html>
